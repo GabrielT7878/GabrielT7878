@@ -5,8 +5,8 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end Developer</strong> focused on API development</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielthiago&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-gabrielthiago.vercel.app/api/top-langs/?username=gabrielthiago&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielT7878&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-gabrielT7878.vercel.app/api/top-langs/?username=gabrielT7878&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
