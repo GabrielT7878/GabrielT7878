@@ -1,9 +1,9 @@
 
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/GabrielT7878/GabrielT7878/blob/main/github-header-image.png" />
+&nbsp;&nbsp;&nbsp;
+
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end Developer</strong> focused on API development</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<a href="http://www.github.com/GabrielT7878"><img src="https://github-readme-stats.vercel.app/api?username=GabrielT7878&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/GabrielT7878)" /></a> <a href="https://github.com/GabrielT7878" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielT7878&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24&background=171717&ring=3382ed)](https://github.com/GabrielT7878)" /></a>
-</div>
  
  &nbsp;
  &nbsp;
