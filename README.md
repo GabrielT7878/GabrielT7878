@@ -1,12 +1,12 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabrielthiago/gabrielthiago/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/GabrielT7878/GabrielT7878/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end Developer</strong> focused on API development</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielT7878&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-gabrielT7878.vercel.app/api/top-langs/?username=gabrielT7878&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielT7878&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-GabrielT7878.vercel.app/api/top-langs/?username=GabrielT7878&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
