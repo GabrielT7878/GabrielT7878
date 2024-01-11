@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/GabrielT7878/GabrielT7878/blob/main/github-header-image.png" />
+<img src="https://github.com/GabrielT7878/GabrielT7878/blob/main/github-header-image.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-end Developer</strong> focused on API development</p>&nbsp;
